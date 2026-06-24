@@ -1,2 +1,3 @@
-# aether-x1
-AETHER X1 – Interactive 3D smartphone product landing page built with React, React Three Fiber, and Three.js.
+# AETHER X1 – Beyond Imagination
+
+An interactive 3D smartphone landing page developed using React, Vite, React Three Fiber, and Three.js. The project showcases a futuristic smartphone through immersive 3D visualization, smooth animations, glassmorphism design, and responsive web development.
